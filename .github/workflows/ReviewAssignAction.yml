@@ -1,8 +1,8 @@
-            - name: Review Assign Action
+name: Review Assign Action
   # You may pin to the exact commit or the version.
   # uses: hkusu/review-assign-action@58c5b8bd3299c53b08019031d18541e2c449ca0a
-  uses: hkusu/review-assign-action@v1.3.1
-  with:
+uses: hkusu/review-assign-action@v1.3.1 
+ with:
     # 
     assignees: ${{ github.actor }}
     # 
