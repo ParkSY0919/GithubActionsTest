@@ -1,0 +1,11 @@
+addReviewers: true
+
+
+addAssignees: author
+
+
+reviewers:
+  - inhomun
+  - ParkSY0919
+
+numberOfReviewers: 2
