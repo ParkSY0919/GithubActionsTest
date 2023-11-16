@@ -1,7 +1,7 @@
 ---
 name: Issue
-about: Issue
-title: ''
+about: 나는야 템플릿 목적
+title: 나는야 기본 제목
 labels: ''
 assignees: ''
 
