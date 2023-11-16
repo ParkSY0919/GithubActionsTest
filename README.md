@@ -1,4 +1,3 @@
 # GithubActionsTest
 
-card
-edit
+아이 배고파
