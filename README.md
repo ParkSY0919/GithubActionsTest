@@ -1,7 +1,3 @@
 # GithubActionsTest
 
-123
-ASDASD
-adasdas
-sda
-sadasd
+discord 연동 웹훅~
