@@ -1,15 +1,6 @@
 ---
-name: "\b이슈템플릿"
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: Issues Template
-about: 위 이슈 생성 템플렛을 사용하여 이슈를 생성하고, 작성해주세요.
+name: Issue
+about: Issue
 title: ''
 labels: ''
 assignees: ''
