@@ -1,5 +1,3 @@
 # GithubActionsTest
 
-아이 배고파
-ㅁㄴㅇㅁㄴㅇㄴ
-asd
+Edit 12.22
